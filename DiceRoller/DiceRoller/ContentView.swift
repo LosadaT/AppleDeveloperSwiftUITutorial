@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  DiceRoller
 //
-//  Created by Patricia Totaro on 19/04/25.
+//  Created by Francisco Totaro on 19/04/25.
 //
 
 import SwiftUI
